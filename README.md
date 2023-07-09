@@ -4,6 +4,8 @@
 
 ## Introduce
 
-- I'm learning DevOps with Js Language.
+- I'm currently learning DevOps skills.
 - I'm looking for someone to study DevOps & language together.
 - I'm looking for collaborator to work on a project using node.js & Nest.js.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyungJ)](https://github.com/MinkyungJ/github-readme-stats)
