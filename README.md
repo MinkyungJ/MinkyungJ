@@ -4,8 +4,7 @@
 
 ## Introduce
 
-- I'm currently learning DevOps skills.
-- I'm looking for someone to study DevOps & language together.
-- I'm looking for collaborator to work on a project using node.js & Nest.js.
+- EUGENE Logistics Developer - ERP(Douzone) DevManager (24. 08. 07 ~ )
+- I learned DevOps Skills such as CI/CD(Github Actions, AWS Code Series), AWS, Docker, Kubernetes, Terraform and so on.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyungJ)](https://github.com/MinkyungJ/github-readme-stats)
