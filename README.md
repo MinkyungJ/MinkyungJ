@@ -6,5 +6,6 @@
 
 - EUGENE Logistics Developer - ERP(Douzone) DevManager (24. 08. 07 ~ )
 - I learned DevOps Skills such as CI/CD(Github Actions, AWS Code Series), AWS, Docker, Kubernetes, Terraform and so on.
+- Beginner in blogging,, 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyungJ)](https://github.com/MinkyungJ/github-readme-stats)
